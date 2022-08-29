@@ -1,4 +1,0 @@
-
-Nombre:Carlos
-Apellido:Cuello
-Asignatura: Electiva Disciplinar II-Backend
